@@ -8,42 +8,14 @@
 <!-- TOC  -->
 
 - [DELICTES INFORMÀTICS](#delictes-informàtics)
-  - [Què és un il·lícit?](#què-és-un-il·lícit)
-    - [Il·lícit civil](#il·lícit-civil)
-    - [Delicte](#delicte)
+  - [Què és un delicte](#què-és-un-delicte)
   - [Delictes informàtics](#delictes-informàtics)
-- [DELICTE D'INTRUSIO INFORMÁTICA (ART 197BIS)](#delicte-dintrusio-informtica-art-197bis)
-- [INTERCEPTACIO DE TRANSMISSIONS DE DADES INFORMATIQUES (ART 197 BIS AP.SEGON)](#interceptacio-de-transmissions-de-dades-informatiques-art-197-bis-apsegon)
-- [ALTRES DELICTES INFORMATICS](#altres-delictes-informatics)
-- [AMENACES (ART 169)](#amenaces-art-169)
-- [DELICTES CONTRA L'HONOR: CALUMNIES I INJURIES (ART 205 I SS)](#delictes-contra-lhonor-calumnies-i-injuries-art-205-i-ss)
-- [FRAUS INFORMÁTICS (ESTAFA) (ART 248)](#fraus-informtics-estafa-art-248)
-- [SABOTATGE INFORMATIC (ART 264)](#sabotatge-informatic-art-264)
-- [PORNOGRAFIA INFANTIL (ART 189)](#pornografia-infantil-art-189)
-- [FALSEDAT (ART 390-SS)](#falsedat-art-390-ss)
-- [REFERENCIES](#referencies)
+  - [Referències](#referències)
 
 <!-- /TOC -->
 ---
 
-## Què és un il·lícit?
-
-Un il·lícit és una **conducta o acció contrària a la llei**.
-
-Els delictes es poden classificar en dos grups:
-
-*Il·lícit civil
-*Il·lícit penal o delicte
-
-### Il·lícit civil
-
-Un acte il·lícit civil és un comportament que no constitueix un delicte, però que, **causant danys a una tercera persona**, l’autor de l’acció que causa el dany està obligat a reparar i compensar aquest dany. Així, en aquest cas, la conseqüència del delicte civil no sanciona com es produeix amb delictes delictius, sinó que té una conseqüència subsanable.
-
-El marc legal que regula els il·lícits civils és el **Codi Civil**.
-
-Un exemple de delicte civil és el següent: un test mal col·locat en un balcó cau sobre un vehicle aparcat. El veí responsable del test caigut,estarà obligada a compensar al propietari del cotxe que ha patit els danys.
-
-### Delicte
+## Què és un delicte?
 
 Els delictes són conductes que **violen la llei penal** que al règim legal espanyol es troba en el **Codi Penal**.
 
@@ -57,6 +29,12 @@ Les **penes pels delictes penals** poden ser de presó i multes. Una multa és u
 - Descobriment de secrets
 
 I a més hi ha una condemna diferent per cadascun.
+
+No totes les conductes il·lícites són delictes. Hi ha altres tipus de conductes il·lícites que es diuen **infraccions administratives** i que es troben en altres lleis.
+
+Per exemple, conduir un cotxe sense cinturó de seguretat és una infracció administrativa.
+
+També les conductes il·lícites poden ser **infraccions civils**, tipificades en aquest cas pel **Codi Civil**. Per exemple, si algú et deu diners i no te'ls paga, és una infracció civil.
 
 ## Delictes informàtics
 
@@ -103,15 +81,19 @@ La policia espanyola en considera algun més (del codi penal)
 
 Aquest delicte castiga **l'accès o la facilitació de l'accès al conjunt o part d'un sistema d'informació**, vulnerant mesures de seguretat i **sense autorització**.
 
-- Es castiga fins i tot si no s'ha accedit a dades, amb penes de **presó de sis mesos a dos anys**.
-- Exemple: Eines de reconeixement com ara **nmap** i d'atac a contrasenyes online com ara **Hydra**.
+- Exemple: Entrar a un servidor per.
 
 ### Intercepció de transmissions de dades informàtiques (art. 197 bis ap. segon)
 
 **Interceptar transmissions no públiques** de dades informàtiques, inclòs via senyal sense fils.
 
-- Es castiga amb **presó de 3 mesos a dos anys o multa de 3 mesos a 2 anys**.
 - Exemple: Usar sniffers en cable i wifi, keyloggers, troians, ...
+
+### Revelació de secrets (art. 197 bis ap. tercer)
+
+Revelar secrets obtinguts en els delictes anteriors.
+
+- Exemple, publicar a Internet dades obtingudes d'accedir a un servidor web.
 
 ### Altres delictes informàtics
 
@@ -125,24 +107,13 @@ Es castiguen les amenaces realitzades o difoses per qualsevol mitjà  de comunic
 
 **CALÚMNIA**: Una calúmnia és acusar a algú d’haver comès un delicte sabent que és fals
 
-- **Penes de presó 6 mesos a 2 anys o multa de 12 a 24 mesos**
-
 **INJÚRIA**: Una injúria consisteix en lesionar la dignitat o l’honor d’una persona
-
-- **Penes de multa de 6 mesos a 14 mesos o multa de 12 a 24 mesos**
-
-<p align="center">
-<img src="imgs/delictes-informatics-739c08a2.png" width="400" />
-</p>
-
-Font: <https://es.wikipedia.org/wiki/Injurias_a_la_Corona_(Espa%C3%B1a)#Revista_El_Jueves>
 
 ### Fraus informàtics (estafa) (art. 248)
 
 Es considera un **frau** quan amb ànim de lucre s'enganyi a algú perquè faci alguna cosa que el perjudiqui.
 
 - El més corrent és perjudicar-lo **econòmicament**.
-- **Penes de presó de sis mesos a 3 anys**
 - Exemple: el phising bancari.
 
 ### Sabotatge informàtic (art. 264)
@@ -153,13 +124,9 @@ Es tracta de:
 - Interrompre o entorpir el funcionament d'un sistema informàtic, el que coneixem com a DoS o DDoS.
 - Crear, facilitar, posseir programes o contrasenyes o codis d'accés per cometre els delictes anteriors.
 
-- **Penes de presó 6 mesos a 3 anys**.
-
 ### Pornografia infantil (art. 189)
 
 Producció, venda, distribució, exhibició o possessió de material pornogràfic de menors.
-
-- **Penes de 5 a 9 anys de presó**.
 
 ### Falsedat (art. 390-SS)
 
@@ -167,9 +134,14 @@ Alterar alguna cosa per fer-la passar per autèntica és un delicte de falsifica
 
 - També es castiga la possessió de software informàtic per cometre delictes de falsedat (ART 400).
 
-- **Penes de 4 a 8 anys de presó per falsificar targetes de crèdit**.  
+### Delictes contra la Propietat Intel·lectual (art. 270 i SS)
 
----
+El Codi Penal condemna especialment la còpia i distribució no autoritzada de programes d'ordinador i la possessió de mitjans per suprimir-ne les proteccions. També l’ús de sistemes informàtics per la distribució de contingut protegit per la propietat intel·lectual. 
+
+#### Concepte còpia privada
+
+Està permesa la realització de còpies d’obres literàries, artístiques o científiques sense prèvia autorització dels titulars de l’obra, sempre i quan la còpia no s’empri amb finalitats col·lectives, ni lucratives, ni amb ànim de perjudicar a tercers.
+El dret de còpia privada **no és aplicable a programaris** (i, per tant, a videojocs tampoc) i es limita a una sola còpia.
 
 ## Referències
 
