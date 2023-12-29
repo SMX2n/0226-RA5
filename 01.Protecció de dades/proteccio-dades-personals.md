@@ -34,11 +34,15 @@
 - [Autoritats de Protecció de Dades](#autoritats-de-protecció-de-dades)
 - [Mesures de responsabilitat activa](#mesures-de-responsabilitat-activa)
 - [Transferències internacionals](#transferències-internacionals)
-- [Referències](#referències)
+- [Referències i materials complementaris](#referències-i-materials-complementaris)
 <!-- /TOC -->
 ---
 
 ## Introducció
+
+El dret a la privacitat es considera un dret fonamental. La Constitución Española de 1978, en el seu article 18.4, estableix que: "La llei limitarà l'ús de la informàtica per garantir l'honor i la intimitat personal i familiar dels ciutadans i el ple exercici dels seus drets".
+
+Per aquest motiu, s'han desenvolupat una sèrie de lleis amb l'objectiu de garantir aquest dret. La primera llei que es va aprovar a Espanya va ser la Llei Orgànica de Protecció de Dades (LOPD) de 1999. Aquesta llei va ser substituïda per la Llei Orgànica de Protecció de Dades i de Garantia de Drets Digitals (LOPDGDD) de 2018, que és la que està vigent actualment, per adaptar-se al Reglament General de Protecció de Dades (RGPD) de la Unió Europea.
 
 Vídeos introductoris:
 
@@ -47,24 +51,6 @@ Vídeos introductoris:
   
 - INCIBE - Resum LOPD-GDD/RGPD:
   - <https://www.youtube.com/watch?v=WluUlbDVRkg&list=PLr5GsywSn9d_hd7MTimziiM8yZH1d-Igz&index=2>
-
-Opcional:
-
-- El dilema de las redes sociales (Docu Netflix):
-  - <https://www.netflix.com/es/title/81254224>
-  - <https://www.documaniatv.com/ciencia-y-tecnologia/redes-sociales-el-dilema-social-video_e125dff9a.html>
-
-Documents:
-
-- Compliment legal (INCIBE 2023):
-  - <https://www.incibe.es/empresas/que-te-interesa/cumplimiento-legal>
-  - <https://www.incibe.es/sites/default/files/contenidos/dosieres/metad_cumplimientolegal.pdf>
-- (2023) RGPD per a PIMES:
-  - <https://www.incibe.es/empresas/te-ayudamos/rgpd-para-pymes>
-
-- Termes i condicions- Resum dels termes i condicions que ningú llegeix dels serveis d'Internet
-  - <https://tosdr.org/>
-  - <https://tosback.org/>
 
 Hem de tenir clar al final d'aquest bloc:
 
@@ -79,7 +65,7 @@ Hem de tenir clar al final d'aquest bloc:
 
 ## Motivació del RGPD i de la LOPD-GDD
 
-La normativa que regula la protecció de dades personals és:
+La normativa fonamental que regula la protecció de dades personals és:
 
 - **RGPD** Reglament General de Protecció de Dades. Normativa desenvolupada per la Unió Europea i d'aplicació a l'Espai Econòmic Europeu (UE, Suïssa, Andorra, etc.).
 - **LOPD-GDD** Llei Orgànica de Protecció de Dades i de Garantia de Drets Digitals. És la transposició al règim jurídic espanyol del RGPD. Aquesta llei substitueix l'anterior Llei Orgànica de Protecció de Dades (LOPD) de 1999.
@@ -335,6 +321,14 @@ A petició de l’interessat, **no s’aplicaran a les seves dades personals les
 - El **tractament és il·lícit**, la qual cosa determinaria l’esborrat de les dades, però l’interessat s’oposa a això.
 - Les **dades ja no són necessàries** per al tractament, que també determinaria el seu esborrat, però l’interessat sol·licita la limitació perquè els necessita per a la formulació, l’exercici o la defensa de reclamacions.
 
+L'incompliment per part dels responsables del tractament de les dades es considera una infracció.
+
+<p align="center">
+<img src="imgs/RPGD-SancioGoogle.png" width="500" />
+</p>
+
+[Link notícia](https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-sanciona-google-llc-por-ceder-datos-terceros-sin)
+
 ### Figures rellevants al RGPD i la LOPD-GDD
 
 Les següents figures són importants al RGPD i cal conèixer-les.
@@ -463,6 +457,12 @@ Pensar en termes de protecció de dades des del mateix moment en què es disseny
 
 No implantar mesures adequades al risc es considera infracció greu (10 M€ o 2% de facturació, la més alta de les dues)
 
+<p align="center">
+<img src="imgs/RPGD-SancioVodafone.png" width="500" />
+</p>
+
+[Link notícia](https://www.adaptacion-rgpd.eu/vodafone-multada-con-170-000-euros-por-falta-de-medidas-para-evitar-la-suplantacion-de-identidad/)
+
 ### Transferències internacionals
 
 Les dades **només podran ser comunicades fora de l’Espai Econòmic Europeu**:
@@ -474,7 +474,7 @@ Les dades **només podran ser comunicades fora de l’Espai Econòmic Europeu**:
 - **Privacy Shield** va ser un acord entre la UE i els EUA per la transferència de dades, però va ser invalidat pel Tribunal de Justícia de la UE el 16 de juliol de 2020.
 - **Privacy Shield 3.0**: és un nou intent d'acord sobre privacitat entre la UE i EE.UU. per permetre la transferència de dades [Link](https://marketing4ecommerce.net/la-ue-y-ee-uu-establecen-un-nuevo-acuerdo-para-permitir-el-traspaso-de-datos-entre-ambas-potencias/)
 
-## Referències
+## Referències i materials complementaris
 
 ### RGPD i LOPD
 
@@ -487,6 +487,8 @@ Les dades **només podran ser comunicades fora de l’Espai Econòmic Europeu**:
 - [La vigilancia es un problema colectivo, como el cambio climático | Marta Peirano (19-11-2019)](https://www.youtube.com/watch?v=7wPFYdazgUs)
 - [Article "Ús malintencionat de les dades personals" Pablo Yglesias](https://www.pabloyglesias.com/privacidad-uso-malintencionado/)
 - [Tallers de seguretat de Criptica](https://gitlab.com/dhole/criptica_presentacions/-/blob/master/2018-09-12_Tor_Como_Funciona/markdown.md)
+- [Compliment legal (INCIBE 2023](https://www.incibe.es/empresas/que-te-interesa/cumplimiento-legal)
+- [RGPD per a PIMES (INCIBE 2023)](https://www.incibe.es/empresas/te-ayudamos/rgpd-para-pymes)
 
 ### Legislació
 
@@ -504,3 +506,5 @@ Les dades **només podran ser comunicades fora de l’Espai Econòmic Europeu**:
 - Llibre "Nosotros" [Wikipedia](https://es.wikipedia.org/wiki/Nosotros_(novela))
 - [Llibre "Resistencia digital"](https://www.criptica.org/material/resistencia_digital.pdf)
 - [TED Marta Peirano: Por qué me vigilan si no soy nadie?](https://www.youtube.com/watch?v=NPE7i8wuupk)
+- [El dilema de las redes sociales (Docu Netflix)](https://www.documaniatv.com/ciencia-y-tecnologia/redes-sociales-el-dilema-social-video_e125dff9a.html)
+- Termes i condicions- Resum dels termes i condicions que ningú llegeix dels serveis d'Internet [tosdr.org](https://tosdr.org/)
