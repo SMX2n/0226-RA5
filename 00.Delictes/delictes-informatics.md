@@ -9,10 +9,9 @@ Basat en el material de Pau Tomé (IES Bosc de la Coma)
 ---
 <!-- TOC  -->
 
-- [DELICTES INFORMÀTICS](#delictes-informàtics)
-  - [Què és un delicte](#què-és-un-delicte)
-  - [Delictes informàtics](#delictes-informàtics)
-  - [Referències](#referències)
+- [Què és un delicte](#què-és-un-delicte)
+- [Delictes informàtics](#delictes-informàtics)
+- [Referències](#referències)
 
 <!-- /TOC -->
 ---
