@@ -4,6 +4,8 @@
 <img src="imgs/delictes-informatics-5da0be60.png" width="600" />
 </p>
 
+Basat en el material de Pau Tomé (IES Bosc de la Coma)
+
 ---
 <!-- TOC  -->
 

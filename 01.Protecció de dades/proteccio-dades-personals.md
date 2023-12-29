@@ -2,6 +2,8 @@
 
 <img src="imgs/RGPD-breu-4d2a7419.png" width="500" align="center" />
 
+Basat en el material de Pau Tomé (IES Bosc de la Coma)
+
 ---
 <!-- TOC -->
 - [Introducció](#introducció)
