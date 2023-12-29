@@ -1,5 +1,7 @@
 # UF3: LEGISLACIÓ SEGURETAT I PROTECCIÓ DE DADES
 
+<img src="uf3.jpg" width="500" align="center" />
+
 ## Taula de continguts
 
 - [1. Introducció](#1-introducció)
