@@ -203,6 +203,10 @@ Hi ha autors que han posat les seves obres creatives amb llicències diferents a
 
 <img src="imgs/1.LPI-13ef4358.png" width="400" align="center" />
 
+Aquí tenim un resum de les llicències Creative Commons
+
+![Creative Commons](imgs/llicenciesCC-ordenades.jpg)
+
 #### Copyleft
 
 Fa ús dels dret d'autor amb l'objectiu de permetre fer servir, distribuir, copiar i alterar l’obra lliurement i exigint que es preservin les mateixes llibertats en les còpies i derivats de l'obra.

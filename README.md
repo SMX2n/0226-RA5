@@ -5,7 +5,7 @@
 - [1. Introducció](#1-introducció)
 - [2. Resultats d'aprenentatge i criteris d'avaluació](#2-resultats-daprenentatge-i-criteris-davaluació)
 - [3. Delictes informàtics](00.Delictes/delictes-informatics.md)
-- [4. Protecció de dades](01.ProteccioDades/proteccio-dades.md)
+- [4. Protecció de dades](01.ProteccioDades/proteccio-dades-personals.md)
 - [5. LSSI](02.LSSI/lssi.md)
 - [6. LPI](03.LPI/lpi.md)
 
