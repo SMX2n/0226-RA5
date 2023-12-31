@@ -75,6 +75,10 @@ L'incomplent d'aquesta normativa és motiu de sanció. Aquí alguns casos:
 - [Iberia multada amb 30.000 € per incomplir política de cookies (2019)](https://www.conversia.es/iberia-multada-por-incumplir-con-la-politica-de-cookies/)
 - [Freshly Cosmetics multada amb 4.000 € per preseleccionar les cookies de la seva web (2023)](https://lawwwing.com/blog/sancion-de-4000e-por-premarcar-las-cookies-de-su-pagina-web/)
 
+Aquest 2023 s'ha aprovat una nova normativa. Un dels aspectes que s'han modificat és acceptar que l'alternativa al `mur de cookies` és el `mur de pagament`. Això vol dir que si no acceptes les cookies, no pots accedir al contingut de la web de forma gratuïta.
+
+>Por otro lado, en cuanto a los muros de cookies, la Guía anterior ya precisaba que para que el consentimiento pudiera considerarse otorgado libremente, el acceso al servicio y a sus funcionalidades no podía estar condicionado a que el usuario consistiese el uso de cookies. Por tanto, podía haber supuestos en los que la no aceptación de la utilización de cookies impidiese el acceso al sitio web o la utilización total o parcial del servicio, siempre que se informase al usuario y se ofreciese por parte del editor una alternativa de acceso al servicio sin necesidad de aceptar el uso de cookies. La nueva versión de la Guía aclara que dicha alternativa no tendrá por qué ser necesariamente gratuita.
+
 ## Publicitat electrònica
 
 La LSSI regula la publicitat electrònica, que és tota forma de comunicació comercial incloent qualsevol mitjà electrònic, com ara correu electrònic, SMS, MMS, xats, etc.
@@ -122,3 +126,4 @@ Els proveïdors de serveis **no són responsables** dels continguts que circulen
 
 - [LSSI text legal](https://lssi.mineco.gob.es/Paginas/index.aspx)
 - [INCIBE Cumplimiento Legal](https://www.incibe.es/empresas/que-te-interesa/cumplimiento-legal)
+- [AEPD Guia ssobre el uso de cookies. Juliol 2023](https://www.aepd.es/documento/guia-cookies.pdf)
