@@ -69,7 +69,7 @@ Hem de tenir clar al final d'aquest bloc:
 
 La normativa fonamental que regula la protecció de dades personals és:
 
-- **RGPD** Reglament General de Protecció de Dades. Normativa desenvolupada per la Unió Europea i d'aplicació a l'Espai Econòmic Europeu (UE, Suïssa, Andorra, etc.).
+- **RGPD** Reglament General de Protecció de Dades. Normativa desenvolupada per la Unió Europea.
 - **LOPD-GDD** Llei Orgànica de Protecció de Dades i de Garantia de Drets Digitals. És la transposició al règim jurídic espanyol del RGPD. Aquesta llei substitueix l'anterior Llei Orgànica de Protecció de Dades (LOPD) de 1999.
 
 Els objectius principals d'questes normatives són:
@@ -467,11 +467,13 @@ No implantar mesures adequades al risc es considera infracció greu (10 M€ o 2
 
 ### Transferències internacionals
 
-Les dades **només podran ser comunicades fora de l’Espai Econòmic Europeu**:
+Les dades **només podran ser comunicades fora de la Unió Europea**:
 
-- A territoris que ofereixen un **nivell de protecció adequat**.
+- A territoris que ofereixen un **nivell de protecció adequat**. L'AEPD té un [llistat](https://www.aepd.es/preguntas-frecuentes/6-transferencias-internacionales-bcr-codigos-de-conducta/1-transferencias-internacionales/FAQ-0605-que-paises-se-consideran-con-un-nivel-adecuado-a-efectos-del-articulo-45-del-rgpd) dels països que ofereixen aquest nivell de protecció adequat. Entre d'altres es troben els integrants de l'Espai Econòmic Europeu, Suissa, Andorra, Regne Unit,territoris de la Corona Britànica (Guersey, Jersey, Man), Canadà i d'altres.
 - Quan s’hagin ofert **garanties adequades sobre la protecció que les dades rebran** en la seva destinació.
 - Quan s’apliqui **alguna de les excepcions que permeten transferir les dades**.
+
+Transferències amb els Estats Units d'Amèrica:
 
 - **Privacy Shield** va ser un acord entre la UE i els EUA per la transferència de dades, però va ser invalidat pel Tribunal de Justícia de la UE el 16 de juliol de 2020.
 - **Privacy Shield 3.0**: és un nou intent d'acord sobre privacitat entre la UE i EE.UU. per permetre la transferència de dades [Link](https://marketing4ecommerce.net/la-ue-y-ee-uu-establecen-un-nuevo-acuerdo-para-permitir-el-traspaso-de-datos-entre-ambas-potencias/)
