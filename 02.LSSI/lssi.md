@@ -79,6 +79,10 @@ Aquest 2023 s'ha aprovat una nova normativa. Un dels aspectes que s'han modifica
 
 >Por otro lado, en cuanto a los muros de cookies, la Guía anterior ya precisaba que para que el consentimiento pudiera considerarse otorgado libremente, el acceso al servicio y a sus funcionalidades no podía estar condicionado a que el usuario consistiese el uso de cookies. Por tanto, podía haber supuestos en los que la no aceptación de la utilización de cookies impidiese el acceso al sitio web o la utilización total o parcial del servicio, siempre que se informase al usuario y se ofreciese por parte del editor una alternativa de acceso al servicio sin necesidad de aceptar el uso de cookies. La nueva versión de la Guía aclara que dicha alternativa no tendrá por qué ser necesariamente gratuita.
 
+<p align="center">
+<img src="imgs/cookiepaywall.png" width="500" />
+</p>
+
 ## Publicitat electrònica
 
 La LSSI regula la publicitat electrònica, que és tota forma de comunicació comercial incloent qualsevol mitjà electrònic, com ara correu electrònic, SMS, MMS, xats, etc.
