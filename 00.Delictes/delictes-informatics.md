@@ -82,19 +82,21 @@ La policia espanyola en considera algun més (del codi penal)
 
 Aquest delicte castiga **l'accès o la facilitació de l'accès al conjunt o part d'un sistema d'informació**, vulnerant mesures de seguretat i **sense autorització**.
 
-- Exemple: Entrar a un servidor per.
+- Exemple: Eines de reconeixement com ara nmap i d'atac a contrasenyes online com ara Hydra.
 
-### Intercepció de transmissions de dades informàtiques (art. 197 bis ap. segon)
+### Intercepció de transmissions de dades informàtiques (art. 197 bis)
 
 **Interceptar transmissions no públiques** de dades informàtiques, inclòs via senyal sense fils.
 
 - Exemple: Usar sniffers en cable i wifi, keyloggers, troians, ...
 
-### Revelació de secrets (art. 197 bis ap. tercer)
+### Creació i posessió d'eines per intrusió i interceptació de dades (art. 197 tercer)
 
-Revelar secrets obtinguts en els delictes anteriors.
+Produir, posseir, facilitar eines per a fer intrussions i/o interceptar transmissions no públiques de dades informàtiques o facilitar passwords, codis d'accés, etc. per a fer-ho.
 
-- Exemple, publicar a Internet dades obtingudes d'accedir a un servidor web.
+### Descobriment de secrets en suport informàtic (art. 197 ap. segon)
+
+En aquest cas, el delinqüent confisca, utilitza o modifica dades personals que es registren en mitjans electrònics, informàtics o telemàtics o també en qualsevol altre tipus de registre públic o privat. També s'inclou en aquest tipus de delictes qualsevol persona que accedeixi a aquests fitxers o mitjans de comunicació i alteri o utilitzi les dades per causar danys al titular de la informació o a un tercer.
 
 ### Altres delictes informàtics
 
@@ -106,9 +108,9 @@ Es castiguen les amenaces realitzades o difoses per qualsevol mitjà  de comunic
 
 #### Delictes contra l'honor: calúmnies i injúries (art. 205 i SS)
 
-**CALÚMNIA**: Una calúmnia és acusar a algú d’haver comès un delicte sabent que és fals
+**CALÚMNIA**: Una calúmnia és acusar a algú d’haver comès un delicte sabent que és fals.
 
-**INJÚRIA**: Una injúria consisteix en lesionar la dignitat o l’honor d’una persona
+**INJÚRIA**: Una injúria consisteix en lesionar la dignitat o l’honor d’una persona.
 
 ### Fraus informàtics (estafa) (art. 248)
 
@@ -137,7 +139,7 @@ Alterar alguna cosa per fer-la passar per autèntica és un delicte de falsifica
 
 ### Delictes contra la Propietat Intel·lectual (art. 270 i SS)
 
-El Codi Penal condemna especialment la còpia i distribució no autoritzada de programes d'ordinador i la possessió de mitjans per suprimir-ne les proteccions. També l’ús de sistemes informàtics per la distribució de contingut protegit per la propietat intel·lectual. 
+El Codi Penal condemna especialment la còpia i distribució no autoritzada de programes d'ordinador i la possessió de mitjans per suprimir-ne les proteccions. També l’ús de sistemes informàtics per la distribució de contingut protegit per la propietat intel·lectual.
 
 #### Concepte còpia privada
 
