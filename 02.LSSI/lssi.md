@@ -75,9 +75,7 @@ L'incomplent d'aquesta normativa és motiu de sanció. Aquí alguns casos:
 - [Iberia multada amb 30.000 € per incomplir política de cookies (2019)](https://www.conversia.es/iberia-multada-por-incumplir-con-la-politica-de-cookies/)
 - [Freshly Cosmetics multada amb 4.000 € per preseleccionar les cookies de la seva web (2023)](https://lawwwing.com/blog/sancion-de-4000e-por-premarcar-las-cookies-de-su-pagina-web/)
 
-Aquest 2023 s'ha aprovat una nova normativa. Un dels aspectes que s'han modificat és acceptar que l'alternativa al `mur de cookies` és el `mur de pagament`. Això vol dir que si no acceptes les cookies, no pots accedir al contingut de la web de forma gratuïta.
-
->Por otro lado, en cuanto a los muros de cookies, la Guía anterior ya precisaba que para que el consentimiento pudiera considerarse otorgado libremente, el acceso al servicio y a sus funcionalidades no podía estar condicionado a que el usuario consistiese el uso de cookies. Por tanto, podía haber supuestos en los que la no aceptación de la utilización de cookies impidiese el acceso al sitio web o la utilización total o parcial del servicio, siempre que se informase al usuario y se ofreciese por parte del editor una alternativa de acceso al servicio sin necesidad de aceptar el uso de cookies. La nueva versión de la Guía aclara que dicha alternativa no tendrá por qué ser necesariamente gratuita.
+Al 2023 es va aprovar una nova normativa. Un dels aspectes que s'han modificat és acceptar que l'alternativa al `mur de cookies` és el `mur de pagament`. Això vol dir que si no acceptes les cookies, no pots accedir al contingut de la web de forma gratuïta.
 
 <p align="center">
 <img src="imgs/cookiepaywall.png" width="500" />
@@ -95,21 +93,21 @@ Obligació d’informar que es tracta d’informació publicitària. Es prohibei
 
 ## Comerç electrònic i contractació en línia
 
-La LSSI regula el comerç electrònic, que és la venda de béns o serveis a través d’Internet.
+La LSSI regula la venda de béns i serveis per Internet.
 
-Obligació d’informar de forma clara i inequívoca:
+Abans de contractar, cal informar de manera clara sobre:
 
 - Característiques del producte.
 - Preu final, amb impostos i despeses d’enviament.
 - Forma de pagament.
 - Forma d’enviament.
 - Durada de l’oferta.
-- Dret de desistiment
+- Dret de desistiment.
 - Idioma en què es realitzarà la contractació.
 
-Amb posterioritat a la contractació (període màxim de 24 hores), s’ha de confirmar la compra per escrit, amb totes les dades de la mateixa.
+Després de la contractació, i com a màxim en 24 hores, s’ha de confirmar la compra per escrit amb totes les dades.
 
-Els contractes en línia són vinculants per a les dues parts. El client té dret de desistiment en un període de 14 dies naturals, sense necessitat de justificar la decisió i sense penalització.
+Els contractes en línia obliguen les dues parts. El client té dret de desistiment durant 14 dies naturals, sense justificar la decisió ni pagar cap penalització.
 
 ## Proveïdors de serveis
 

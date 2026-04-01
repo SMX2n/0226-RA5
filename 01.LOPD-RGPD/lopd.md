@@ -42,7 +42,7 @@ Basat en el material de Pau Tomé (IES Bosc de la Coma)
 
 ## Introducció
 
-El dret a la privacitat es considera un dret fonamental. La Constitución Española de 1978, en el seu article 18.4, estableix que: "La llei limitarà l'ús de la informàtica per garantir l'honor i la intimitat personal i familiar dels ciutadans i el ple exercici dels seus drets".
+El dret a la privacitat es considera un dret fonamental. La Constitució Espanyola de 1978, en el seu article 18.4, estableix que: "La llei limitarà l'ús de la informàtica per garantir l'honor i la intimitat personal i familiar dels ciutadans i el ple exercici dels seus drets".
 
 Per aquest motiu, s'han desenvolupat una sèrie de lleis amb l'objectiu de garantir aquest dret. La primera llei que es va aprovar a Espanya va ser la Llei Orgànica de Protecció de Dades (LOPD) de 1999. Aquesta llei va ser substituïda per la Llei Orgànica de Protecció de Dades i de Garantia de Drets Digitals (LOPDGDD) de 2018, que és la que està vigent actualment, per adaptar-se al Reglament General de Protecció de Dades (RGPD) de la Unió Europea.
 
@@ -130,7 +130,7 @@ Els conceptes que s'ha de conèixer són:
 
 ### Fitxers
 
-És qualsevol conjunt estructurat de dades personals accessibles d’acord amb criteris determinats, ja sigui centralitzat, descentralitzat o repartit de forma funcional o geogràfica.
+És qualsevol **conjunt estructurat de dades personals** accessibles d’acord amb criteris determinats, ja sigui centralitzat, descentralitzat o repartit de forma funcional o geogràfica. Per exemple, una base de dades d’un hospital, un fitxer de clients d’una empresa, etc.
 
 ### Tractament de dades
 
@@ -181,7 +181,6 @@ Es consideren categories especials de dades personals les que:
 Exemple de perquè s'ha de protegir les dades personals especials:
 
 >Abans de 1940, el cens dels habitants d'Holanda incloïa la tendència religiosa, per motius lícits ja que es volia repartir bé els diners dedicats a temples. Aquest cens va ser utilitzat pels nazis durant la segona guerra mundial per exterminar al 90% dels jueus d'Holanda.
-
 [Font](https://books.google.es/books?id=UAC9BwAAQBAJ&pg=PT79&lpg=PT79&dq=censo+holanda+nazis&source=bl&ots=C7oGjhSgxl&sig=McS14JAD3vNpn4B8yjZLh-qpoLs&hl=es&sa=X&ved=0CEYQ6AEwBmoVChMIifrbx7SayAIVhEIUCh2Z-AZk#v=onepage&q=censo%20holanda%20nazis&f=false)
 
 ### El consentiment
@@ -200,11 +199,9 @@ No és necessari el consentiment en el cas de l'**interès legítim** del respon
 
 La LOPD-GDD afegeix una sèrie de casos en els quals no és necessari el consentiment de l'interessat:
 
-- El tractament de dades de contacte de persones físiques que presten servei a persones jurídiques, sempre amb fins de localització professional o per assumptes de caràcter professional.
-- El tractament de dades d'empresaris individuals o de professionals liberals, sempre que el tractament tingui relació amb la seva activitat i no com a persona física.
-- El tractament de dades d'empresaris individuals o de professionals liberals, sempre que el tractament tingui relació amb la seva activitat i no com a persona física.
-- El tractament de dades relacionat amb operacions de reestructuració societària o transmissions de negoci.
-- El tractament amb fins de videovigilància.
+- El tractament de dades de contacte de persones físiques que presten servei a persones jurídiques, sempre amb fins de localització professional o per assumptes de caràcter professional (correu  electrònic, telèfon, etc. d'interlocutors de l'empresa).
+- El tractament de dades d'empresaris individuals o de professionals liberals, sempre que el tractament tingui relació amb la seva activitat professional.
+- El tractament amb finalitat de videovigilància.
 - Serà lícit el tractament de dades personals que tingui per objecte evitar l'enviament de comunicacions comercials a qui hagi manifestat la seva negativa o oposició a rebre-les.
 
 #### Quan cal consentiment explicit?
@@ -219,10 +216,10 @@ Per a que sigui **explícit** s'ha de picar un SI.
 
 #### Consentiment dels menors d'edat
 
-A la RGPD només és vàlid si tenen **16 anys** o més. **Els estats membres de la UE poden rebaixar l'edat fins als 13 anys**.
+A la RGPD estableix en **16 anys** l'edat mínima per donar consentiment, tot i que **els estats membres de la UE poden rebaixar l'edat fins als 13 anys**.
 
 - A Espanya la LOPD-GDD el rebaixa als **14 anys** (Article 7).
-- A més, el llenguatge utilitzat per informar als menors ha de ser comprensible per ells.
+- En el cas de menors, el llenguatge utilitzat per informar i obtenir el consentiment ha de ser **clar i senzill** per a que el menor pugui entendre-ho.
 
 ### Drets de les persones afectades
 
@@ -238,18 +235,16 @@ Els drets dels interessats reconeguts pel RGPD i LOPD-GDD són els que podem veu
 
 #### Dret d'informació
 
-Dret de les persones afectades a ser informades en els aspectes següents:
+Els interessats tenen dret a ser informats sobre:
 
-- La **base jurídica del tractament**.
-- Els **interessos legítims perseguits** en què es fonamenta el tractament.
-- Les **dades de contacte del DPD**, delegat de protecció de dades.
-- La **intenció de transferir les dades a un tercer país** o a una organització internacional i la base per fer-ho.
-- El **termini durant el qual es conservaran** les dades.
-- El dret a sol·licitar la **portabilitat**
-- El dret a **retirar en qualsevol moment el consentiment** que s'hagi prestat.
-- Si la **comunicació de dades és un requisit legal o contractual o un requisit necessari per subscriure un contracte**.
-- El dret a **presentar una reclamació davant una autoritat de control**.
-- L'**existència de decisions automatitzades**, inclosa la lògica aplicada i les seves conseqüències.
+- La base jurídica i els interessos legítims del tractament.
+- Les dades de contacte del Delegat de Protecció de Dades (DPD).
+- Si les dades es transferiran a tercers o fora de la UE.
+- Quant de temps es guardaran les dades.
+- Els seus drets de portabilitat i de retirada de consentiment.
+- Si la cessió de dades és obligatòria o necessària.
+- Com presentar reclamacions davant l'autoritat de control.
+- Si hi ha decisions automatitzades i com es prenen.
 
 #### Dret d'accés
 
