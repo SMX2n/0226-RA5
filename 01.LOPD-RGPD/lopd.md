@@ -284,7 +284,7 @@ El dret de supressió dona peu al **Dret a l’Oblit**
 - Quan les dades personals s’hagin fet públiques, **el responsable haurà d’informar a altres responsables de la sol·licitud de l’interessat d’esborrar** la seva informació personal.
 - S’**inclou qualsevol enllaç a aquestes dades personals**, o **qualsevol còpia** o rèplica de les mateixes.
 
-Exemple: [El cas Google i el dret a l'oblit] (<https://www.elabogadodigital.com/el-derecho-al-olvido-y-google>)
+Exemple:El cas Google i el dret a l'oblit <https://www.elabogadodigital.com/el-derecho-al-olvido-y-google>
 
 #### Dret d'oposició
 
